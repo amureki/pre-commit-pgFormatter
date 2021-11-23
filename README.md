@@ -13,3 +13,10 @@ Add to your pre-commit config:
   hooks:
     - id: pg_format
 ```
+
+## Inspiration / Thank you!
+
+- [pre-commit](https://pre-commit.com)
+- [@darold](https://github.com/darold) and [pgFormatter](https://github.com/darold/pgFormatter)
+- [@adamchainz](https://github.com/adamchainz) and [pre-commit-dprint](https://github.com/adamchainz/pre-commit-dprint)
+- [@gajus](https://github.com/gajus) and [pg-formatter](https://github.com/gajus/pg-formatter)
